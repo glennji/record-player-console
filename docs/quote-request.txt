@@ -1,0 +1,49 @@
+Subject: Quote request: plywood cut to size, 18 parts, delivered to [SUBURB]
+
+Hello,
+
+Could you quote for supplying and cutting plywood for a painted cabinet?
+
+BOARD
+- 18 mm (or 17 mm) interior plywood with a sanded, paint-grade face on
+  both sides. Birch B/BB if you stock it; otherwise please suggest your
+  nearest equivalent.
+- One 6 mm sheet (plywood or MDF) for the back panel.
+
+CUTTING
+- Finished sizes in mm, length x width. Face grain along the length.
+- Please cut all parts of the same size at the same saw setting, so
+  they match each other.
+- Square cuts only. No edging, drilling or machining.
+- Please label the parts with their letters if you offer that.
+- Please return the offcuts.
+
+18 mm plywood
+Label  Part            Qty  Length  Width
+A      Side layer        4    1150    464
+B      Top               1    1408    464
+C      Base layer        2    1408    464
+D      Divider 1         1     924    464
+E      Divider 2         1     924    434
+F      Centre shelf      2     470    434
+G      Amp shelf         1     470    464
+H      Wine shelf        1     470    439
+J      Rack shelf        1     432    434   (434 x 434 if the board is 17 mm)
+K      Door              1     652    464
+L      Foot layer        2     350    122   (350 x 125 if the board is 17 mm)
+
+6 mm sheet
+M      Back              1    1440    968
+
+By my layout the 18 mm parts fit on three sheets of 2440 x 1220 or
+2400 x 1200 (picture attached).
+
+Could the quote please state:
+1. The board and grade you would use
+2. Its real (measured) thickness
+3. The sheet size
+4. The total including cutting, GST and delivery to [SUBURB]
+5. The lead time
+
+Thank you,
+[NAME]
