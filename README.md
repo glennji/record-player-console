@@ -1,5 +1,7 @@
 # record-player-console
 
+![Console render](render.webp)
+
 A painted plywood console for a turntable, records, wine, whisky decanters and glassware. It also houses a 9U 10-inch mini rack and a small Proxmox server (Proxima, in a Jonsbo N2) behind a sliding slatted door. This is a first woodworking build, planned so that a cut-to-size supplier makes every long cut.
 
 ![Console v0.11, front and side views](docs/drawings/console-v0.11-front-side.png)
