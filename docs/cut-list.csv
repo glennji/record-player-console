@@ -3,11 +3,13 @@ A,Side layer,4,1150,464,18,,,along length,Glued in pairs to make two sides 36 th
 B,Top,1,1408,464,18,,,along length,Sits between the sides
 C,Base layer,2,1408,464,18,,,along length,Glued face to face to make a base 36 thick
 D,Divider 1,1,924,464,18,,,along length,Between the amp bay and the centre bay
-E,Divider 2,1,924,434,18,,,along length,Set back 30 for the sliding door
-F,Centre shelf,2,470,434,18,,,along length,Upper shelf height chosen at M7
+E,Divider 2,1,924,420,18,,,along length,Set back 44 for the sliding door
+F,Centre shelf,2,470,420,18,,,along length,Set back 44; upper shelf height chosen at M7
 G,Amp shelf,1,470,464,18,,,along length,Full depth; the door closes under it
 H,Wine shelf,1,470,439,18,,,along length,Set back 25 for the inset door
-J,Rack bay shelf,1,432,434,18,434,434,along length,Carries Proxima; length = 468 - 2t; height set from the real rack at M7
+J,Rack bay shelf,1,432,420,18,434,420,along length,Set back 44; carries Proxima; length = 468 - 2t; height set from the real rack at M7
 K,Door,1,652,464,18,,,along length (up the door),3 mm gap all round
 L,Foot layer,2,350,122,18,350,125,along length,Glued in a pair; width = 176 - 3t; shimmed to the floor at install
-M,Back,1,1440,968,6,,,n/a,6 mm plywood or MDF; openings and power-point window cut by hand
+N,Wine rack shelf,2,468,250,18,,,along length,Rest on cleats in the wine tier; 2 short of the bay so they drop in
+M,Back,1,1440,968,6,,,n/a,6 mm plywood; openings and power-point window cut by hand
+P,Slat door rail,3,450,70,6,,,along length,6 mm plywood; glued behind the slats at M10; the long edges must be straight
